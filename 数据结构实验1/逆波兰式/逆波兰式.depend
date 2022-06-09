@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603100298 source:d:\fkl的文件夹\数据结构实验\逆波兰式\main.c
+	<stdio.h>
+	<stdlib.h>
+

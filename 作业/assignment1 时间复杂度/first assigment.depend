@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1600700940 source:c:\users\carlo\documents\personal files\hit\learning\2020autumn\数据结构\first assigment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
